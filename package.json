@@ -45,7 +45,7 @@
     "long": "^4.0.0",
     "nunjucks": "^3.2.3",
     "object-hash": "^2.2.0",
-    "protobufjs": "^6.11.2",
+    "protobufjs": "^6.11.3",
     "yargs": "^17.0.1"
   },
   "devDependencies": {
